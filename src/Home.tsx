@@ -1,2 +1,2 @@
-<div>xin chao the gioi</div>
-<div>Code web ae ơi,</div>
+<p>xin chao the gioi</p>
+<p>Code web ae ơi, cố lên!</p>
